@@ -1,0 +1,40 @@
+Descriptions:
+"Light rain description:",
+      "Scattered drops that do not completely wet an exposed surface regardless of duration.",
+
+"Medium rain description",
+      "Individual drops easily identified and puddles(small muddy pools) form slowly. Small streams may flow in gutters.",
+      
+"Heavy rain description",
+      "Puddles rapidly forming and down pipes flowing freely.",
+      
+"Torrential rain description",
+      "Strongest downpour of rain and may persist for hours.",
+      
+"Extremely heavy rain description",
+      "The sky is overcast, there is a continuous precipitation. Falls in sheets, misty spray over hard surfaces.",
+      
+"Ankle deep description",
+      "Flood is around 0.25 meters high. Passable to all types of vehicles.",
+      
+"Knee deep description",
+      "Flood is around 0.5 meters high. Not Passable to light vehicles. ",
+      
+"Waist deep description",
+      "Flood is threatening, around 1 meter high. Not passable to all types of vehicles. ",
+      
+"Neck deep description",
+      "Serious flooding expected in low lying areas. Not passable to all types of vehicles. ",
+      
+"Above head deep description",
+      "Flood level is above critical level. Flood Level is between 1.6 to 2 meters high. Not passable to all types of vehicles. ",
+      
+"One storey high description",
+      "Flood level is between 2 to 3 meters high. Not passable to all types of vehicles. ",
+      
+"1.5 Storey high description",
+      "Flood level is between 3 to 4.5 meters high . Not passable to all types of vehicles. ",
+      
+"Two storeys high description",
+      "Flood level is 4.5 meters high. Not passable to all types of vehicles. ",
+      
